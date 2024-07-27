@@ -8,7 +8,5 @@ If you hit a wall, it's game over.
 
 Or when you hit yourself. Everytime you eat a piece of food (red dot), the game adds 1 to the score.
 
-If you eat your tail, it's game over.
-
 ![image](https://github.com/user-attachments/assets/43fb839e-863a-4cf0-bc9b-d95e81bb7628)
 
